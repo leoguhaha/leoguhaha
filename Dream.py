@@ -4,7 +4,7 @@ from PyQt5.QtGui import QFont, QColor, QPalette
 from PyQt5.QtCore import Qt
 import random
 
-
+# It's a random exe
 class MyApp(QMainWindow):
     def __init__(self):
         super().__init__()
