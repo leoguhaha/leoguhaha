@@ -1,2 +1,2 @@
 Test demo projects..
-Some practices..
+Some practices....
